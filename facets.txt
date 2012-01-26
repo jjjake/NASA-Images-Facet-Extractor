@@ -3417,6 +3417,7 @@ DEBUT, What -- DEBUT
 De E. Beeler, Who -- De E. Beeler
 Deep Impact, What -- Deep Impact
 Deep Impact/EPOXI, What -- Deep Impact/EPOXI
+EPOXI, What -- EPOXI
 Deep Impact Impactor (DII) Vehicle, What -- Deep Impact Impactor (DII) Vehicle
 Deep Space 1, What -- Deep Space 1
 Deep Space 2, What -- Deep Space 2
@@ -7884,6 +7885,17 @@ STS-120, What -- STS-120
 STS-121, What -- STS-121
 STS-122, What -- STS-122
 STS-123, What -- STS-123
+STS-124, What -- STS-124
+STS-125, What -- STS-125
+STS-126, What -- STS-126
+STS-127, What -- STS-127
+STS-128, What -- STS-128
+STS-129, What -- STS-129
+STS-131, What -- STS-131
+STS-132, What -- STS-132
+STS-133, What -- STS-133
+STS-134, What -- STS-134
+STS-135, What -- STS-135
 STS-1, What -- STS-1
 STS-26, What -- STS-26
 STS-27, What -- STS-27
@@ -8757,3 +8769,5 @@ Zuben Elakribi, What -- Zuben Elakribi
 Zuben Elgenubi, What -- Zuben Elgenubi
 Zuben Elschemali, What -- Zuben Elschemali
 Zvezda, What -- Zvezda
+Advanced Composition Explorer, What -- Advanced Composition Explorer
+Aeronomy of Ice in the Mesosphere, What -- Aeronomy of Ice in the Mesosphere
